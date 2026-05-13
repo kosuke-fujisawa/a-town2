@@ -1,0 +1,13 @@
+# macOS artifacts
+.DS_Store
+.DS_Store?
+._*
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Editor artifacts
+*~
+*.swp
+*.swo
